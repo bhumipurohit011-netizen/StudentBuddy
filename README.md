@@ -84,10 +84,6 @@ StudentBuddy/
 
 ## 💾 Database Details
 
-### 1. SQLite (`StudentBuddyDB.db`)
-- **`students` table**: Stores `id`, `name`, `email`, `phone`, `year`, `interests`, and `study_mode`.
-- **`notes` table**: Stores `id`, `title`, and `content`.
-
 ### 2. Firebase Realtime Database
 - Cloud path: `students/<emailKey>`
 - Mirrors registered student details in the cloud for cross-platform availability and real-time count metrics.
