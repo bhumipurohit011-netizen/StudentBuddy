@@ -84,7 +84,7 @@ StudentBuddy/
 
 ## 💾 Database Details
 
-### 2. Firebase Realtime Database
+### 1. Firebase Realtime Database
 - Cloud path: `students/<emailKey>`
 - Mirrors registered student details in the cloud for cross-platform availability and real-time count metrics.
 
